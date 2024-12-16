@@ -1,2 +1,2 @@
-# flexbox.pricing.table
+# Flexbox Pricing Table
 Flexbox Pricing Table Project
